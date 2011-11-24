@@ -1,8 +1,8 @@
 Freetronics Sound And Buzzer Module
 ===================================
 Copyright 2011 Freetronics Pty Ltd  
-Freetronics site:  <www.freetronics.com>  
-Freetronics email: <info@freetronics.com>  
+Freetronics site:  www.freetronics.com  
+Freetronics email: info@freetronics.com  
 
 This versatile piezo-element module can be used for both input or
 output. It can be used as a noise-maker driven by your microcontroller
